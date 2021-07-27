@@ -1,0 +1,5 @@
+[default]
+entity = jaewooklee
+project = wandb-tutorial
+base_url = https://api.wandb.ai
+
